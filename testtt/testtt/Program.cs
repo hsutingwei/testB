@@ -12,6 +12,7 @@ namespace testtt
         {
             int aaa = 456;
             Console.WriteLine(aaa);
+            Console.ReadKey();
         }
     }
 }
